@@ -1,0 +1,86 @@
+{
+    "name": "SnapAppointments",
+    "description": "Online appointment scheduling, appointment reminders, client database, and more for businesses and organizations of all sizes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1159-snapappointments.jpg",
+    "tags": [
+        "have api",
+        "photos",
+        "schedules",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/snapappointments\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SnapAppointments",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1159-snapappointments.jpg",
+            "humanURL": "http:\/\/snapappointments.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/snapappointments-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/snapappointments-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.snapappointments.com\/en\/api-documentation"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.snapappointments.com\/en\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/snapappointments"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/snapappointments"
+        },
+        {
+            "type": "Email",
+            "url": "aup@snapappointments.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@snapappointments.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@snapappointments.com"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@snapappointments.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/snapappointments"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/snapappointment"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/snapappts"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/snapappointments.com"
+        }
+    ]
+}
